@@ -17,7 +17,7 @@
     "@react-google-maps/api": "^2.2.0",
     "@tailwindcss/forms": "^0.3.3",
     "@tailwindcss/typography": "^0.4.1",
-    "@types/lodash": "^4.14.173",
+    "@types/lodash": "^4.14.175",
     "@types/nodemailer": "^6.4.4",
     "bcryptjs": "^2.4.3",
     "cloudinary": "^1.26.3",
